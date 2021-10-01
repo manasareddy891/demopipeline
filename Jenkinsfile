@@ -1,5 +1,5 @@
 node{
    stage('Stage 1') {
-        echo 'hello from jenkins file configured in git'
+        echo 'hello from jenkins file configured in git version 1'
     }
 }
